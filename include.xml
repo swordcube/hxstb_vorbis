@@ -1,6 +1,6 @@
 <xml>
     <files id="haxe">
-        <compilerflag value="-I${haxelib:hxsdl}/vendor/include"/>
-        <compilerflag value="-I${haxelib:hxsdl}"/>
+        <compilerflag value="-I${haxelib:hxstb_vorbis}/vendor/include"/>
+        <compilerflag value="-I${haxelib:hxstb_vorbis}"/>
     </files>
 </xml>
