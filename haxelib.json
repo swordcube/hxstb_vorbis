@@ -1,0 +1,14 @@
+{
+    "name": "hxstb_vorbis",
+    "url" : "https://github.com/swordcube/hxstb_vorbis",
+    "license": "MIT",
+    "tags": ["haxe", "vorbis", "stb-vorbis", "stb_vorbis", "stb", "hxstb_vorbis", "cpp", "binds", "bindings", "native"],
+    "description": "A haxelib containing hxcpp bindings for stb_vorbis.",
+    "version": "0.1.0",
+    "classPath": "src/",
+    "releasenote": "",
+    "contributors": ["swordcube"],
+    "dependencies": {
+        "hxcpp": ""
+    }
+}
