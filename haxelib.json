@@ -6,7 +6,7 @@
     "description": "A haxelib containing hxcpp bindings for stb_vorbis.",
     "version": "0.1.0",
     "classPath": "src/",
-    "releasenote": "",
+    "releasenote": "Replace all cpp.Pointer.addressOf(arg) when calling the function with arg, it'll handle it on it's own now",
     "contributors": ["swordcube"],
     "dependencies": {
         "hxcpp": ""
