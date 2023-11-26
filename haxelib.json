@@ -4,9 +4,9 @@
     "license": "MIT",
     "tags": ["haxe", "vorbis", "stb-vorbis", "stb_vorbis", "stb", "hxstb_vorbis", "cpp", "binds", "bindings", "native"],
     "description": "A haxelib containing hxcpp bindings for stb_vorbis.",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "classPath": "src/",
-    "releasenote": "Replace all cpp.Pointer.addressOf(arg) when calling the function with arg, it'll handle it on it's own now",
+    "releasenote": "Fix misnamed field",
     "contributors": ["swordcube"],
     "dependencies": {
         "hxcpp": ""

@@ -19,7 +19,7 @@ extern class Vorbis {
 		untyped __cpp__('short *output;
 		{0} = {1}({2}, {3}, {4}, &output);
 		{5} = output', totalFrameCount,
-			__decodeFileName, filePath, cpp.RawPointer.addressOf(channels), cpp.RawPointer.addressOf(sampleRate), sampleData);
+			__decodeFileName, fileName, cpp.RawPointer.addressOf(channels), cpp.RawPointer.addressOf(sampleRate), sampleData);
 		return totalFrameCount;
 	}
 }
