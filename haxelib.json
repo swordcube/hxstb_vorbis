@@ -4,7 +4,7 @@
     "license": "MIT",
     "tags": ["haxe", "vorbis", "stb-vorbis", "stb_vorbis", "stb", "hxstb_vorbis", "cpp", "binds", "bindings", "native"],
     "description": "A haxelib containing hxcpp bindings for stb_vorbis.",
-    "version": "0.1.2",
+    "version": "0.1.1",
     "classPath": "src/",
     "releasenote": "Fix misnamed field",
     "contributors": ["swordcube"],
