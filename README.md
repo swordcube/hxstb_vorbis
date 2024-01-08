@@ -2,6 +2,8 @@
 
 Haxe/hxcpp @:native bindings for [STB Vorbis](https://github.com/nothings/stb/blob/master/stb_vorbis.c).
 
+These bindings came from [Blueprint](https://github.com/BlueprintFramework-Team/Blueprint), Go check it out!
+
 ---
 
 This library only works with the Haxe `cpp` target via `hxcpp`.
